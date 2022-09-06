@@ -1,0 +1,15 @@
+﻿  AutoLol2021.cpp
+  clientDecisions.cpp
+  gameMode.cpp
+  generalFunctions.cpp
+C:\Users\EDUARDO GODOY\source\repos\AutoLol2021\AutoLol2021\generalFunctions.cpp(63,29): warning C4477: 'fscanf': a cadeia de formato '%c' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'char **'
+C:\Users\EDUARDO GODOY\source\repos\AutoLol2021\AutoLol2021\generalFunctions.cpp(70,8): warning C4302: 'conversão de tipo': truncamento de 'char *' para 'char'
+C:\Users\EDUARDO GODOY\source\repos\AutoLol2021\AutoLol2021\generalFunctions.cpp(73,13): warning C4302: 'conversão de tipo': truncamento de 'char *' para 'char'
+C:\Users\EDUARDO GODOY\source\repos\AutoLol2021\AutoLol2021\generalFunctions.cpp(76,13): warning C4302: 'conversão de tipo': truncamento de 'char *' para 'char'
+C:\Users\EDUARDO GODOY\source\repos\AutoLol2021\AutoLol2021\generalFunctions.cpp(79,13): warning C4302: 'conversão de tipo': truncamento de 'char *' para 'char'
+  imgPro.cpp
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 237 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  AutoLol2021.vcxproj -> C:\Users\EDUARDO GODOY\source\repos\AutoLol2021\x64\Release\AutoLol2021.exe
